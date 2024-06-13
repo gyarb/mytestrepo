@@ -1,1 +1,5 @@
-<?php phpinfo();
+<?php
+
+echo '123';
+
+phpinfo();
